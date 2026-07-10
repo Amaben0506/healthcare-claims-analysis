@@ -6,8 +6,7 @@ An end-to-end healthcare data analytics project built using **SQL**, **Google Bi
 
 ## Dashboard Preview
 
-![Healthcare Claims Analysis Dashboard](Healthcare%20Claims%20Analysis%20Dashboard.png)
-
+![Healthcare Claims Analysis Dashboard](screenshots/Healthcare%20Claims%20Analysis%20Dashboard.png)
 ---
 
 ## Project Overview
